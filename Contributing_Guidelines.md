@@ -1,3 +1,7 @@
+THE VERTICALFILE31 ORGANIZATION
+
+CONTRIBUTING GUIDELINES
+
 Commiting and identifying issues
 
 ======================================================================================================================================
@@ -13,4 +17,4 @@ Pull Requests
 ======================================================================================================================================
 
   One must reintroduce the issue prior to the explanation of the solution, all PR's will tried, tested, and reviewed, if the PR fails in 
-addressing the issue, the PR will be closed and we will provide a reason and explanation for this matter.
+addressing the issue, the PR will be closed and we will provide a reason and explanation for this matter. All Sucessful PR's will be merged, Pull Requests on affecting the master branch (ex. "Development" to master) will be conducted by me when I see fit, I will open the PR for at least 72 hours after opening it, after 72 hours, If all collaborators and members agree in the PR, it will be merged, if not the Verticalfile31 organization will conduct a thourough examination of the branch and will reopen a PR when the issue is resolved.
