@@ -1,6 +1,4 @@
 # Verbose
-An Experimental "emulator"
+This is a test, 
 
-
-This Repo is a first atempt at making an Intel 8080 microprocessor.
-
+[Return to VX](https://vertical-xenoware.github.io/)
